@@ -1,0 +1,24 @@
+<?php
+/**
+ * @file
+ * A block module that displays recent blog posts
+ */
+
+/**
+ * Implements hook_help().
+ *
+ * Displays help and module information.
+ *
+ * @param path
+ *   Which path of the site we're using to display help
+ * @param arg
+ *   Array that holds the current path as returned from arg() function
+ */
+
+function current_posts_help($path, $arg) {
+	switch ($path) {
+		case "admin/help#current_posts":
+			return '<p>' . t("Displays links to nodes created on this date") . '</p>';
+			break;
+	}
+}

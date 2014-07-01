@@ -1,0 +1,4 @@
+1. Create "well" entity
+2. Create "data" (better name?) entity with feeds
+  2a. Relate data to the appropriate well
+3.   
