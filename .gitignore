@@ -6,4 +6,4 @@ sites/*/files
 sites/*/private
 
 phpmyadmin/*
-sites/all/modules/well-entity/*
+#sites/all/modules/well-entity/*
