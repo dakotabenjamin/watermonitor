@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/custom/well-data"]
+	path = sites/all/modules/custom/well-data
+	url = http://github.com/dakotabenjamin/well-data.git
