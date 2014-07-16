@@ -1,3 +1,6 @@
 [submodule "sites/all/modules/custom/well-data"]
 	path = sites/all/modules/custom/well-data
 	url = http://github.com/dakotabenjamin/well-data.git
+[submodule "sites/all/modules/custom/well-entity"]
+	path = sites/all/modules/custom/well-entity
+	url = http://github.com/dakotabenjamin/well-entity.git
